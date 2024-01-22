@@ -74,8 +74,10 @@ Tạo `.env` cho cả  client và server theo mẫu của file `.env.example`
 
 # Hình ảnh về Project
 
-   <img align="right" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-42.png" >
-   <img align="right" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-27.png" >
-   <img align="right" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-52.png" >
-   <img align="right" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-58.png" >
-   <img align="right" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-40-41.png" >
+   <img align="center" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-42.png" >
+   <img align="center" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-27.png" >
+   <img align="center" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-52.png" >
+   <img align="center" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-35-58.png" >
+   <img align="center" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/UI%2C%20UX/Screenshot%20from%202024-01-02%2018-40-41.png" >
+# Sơ đồ Use Case
+   <img align="center" alt="image" raw="true" width="400" src="https://github.com/THT909/hostImg/blob/master/Notes_app/Chart/Screenshot%20from%202024-01-06%2003-47-14.png" >
